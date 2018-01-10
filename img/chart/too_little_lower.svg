@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="600px" viewBox="0 0 16 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>too_little_lower</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="too_little_lower">
+            <g id="Group" transform="translate(8.000000, 293.250000) scale(1, -1) translate(-8.000000, -293.250000) translate(0.000000, -6.750000)" fill="#434348">
+                <rect id="Rectangle-2" x="0" y="0" width="16" height="600"></rect>
+            </g>
+            <g id="Group-2" transform="translate(8.000000, 596.000000) rotate(-180.000000) translate(-8.000000, -596.000000) translate(-0.000000, 592.000000)" fill="#434348">
+                <path d="M8.59816672,0.198628317 L16,5.72356816 L16,7.68963959 L-3.55271368e-15,7.68963959 L-3.55271368e-15,5.72356816 L7.40183328,0.198628317 L7.40183328,0.198628317 C7.75663984,-0.066209439 8.24336016,-0.066209439 8.59816672,0.198628317 Z" id="Triangle-2"></path>
+            </g>
+            <text id="Too-Little" transform="translate(9.000000, 565.500000) rotate(-90.000000) translate(-9.000000, -565.500000) " font-family="Helvetica" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="-15.5" y="569.5">Too Little</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

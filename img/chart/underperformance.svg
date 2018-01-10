@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="140px" viewBox="0 0 16 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>underperformance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="underperformance">
+            <g id="Group" transform="translate(8.000000, 66.000000) rotate(-180.000000) translate(-8.000000, -66.000000) translate(0.000000, -1.000000)" fill="#434348">
+                <path d="M0,0 L16,0 L16,131.13286 L16,131.13286 C16,132.23743 15.1045695,133.13286 14,133.13286 L2,133.13286 L2,133.13286 C0.8954305,133.13286 1.3527075e-16,132.23743 0,131.13286 L0,0 Z" id="Rectangle-2"></path>
+            </g>
+            <text id="Under-Performance" transform="translate(7.500000, 76.500000) rotate(-90.000000) translate(-7.500000, -76.500000) " font-family="Helvetica" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="-45" y="80.5">Under Performance</tspan>
+            </text>
+            <path d="M7.40183328,139.491011 L0,133.966071 L1.77635684e-15,132 L16,132 L16,133.966071 L8.59816672,139.491011 C8.24336016,139.755849 7.75663984,139.755849 7.40183328,139.491011 Z" id="Triangle-2" fill="#434348"></path>
+        </g>
+    </g>
+</svg>

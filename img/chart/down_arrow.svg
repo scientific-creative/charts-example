@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="120px" viewBox="0 0 16 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>down_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="down_arrow">
+            <g id="Group" transform="translate(8.000000, 57.000000) rotate(-180.000000) translate(-8.000000, -57.000000) " fill="#434348">
+                <path d="M0,0 L16,0 L16,112 L16,112 C16,113.104569 15.1045695,114 14,114 L2,114 L2,114 C0.8954305,114 1.3527075e-16,113.104569 0,112 L0,0 Z" id="Rectangle-2"></path>
+            </g>
+            <text id="Too-Low" transform="translate(7.500000, 87.000000) rotate(-90.000000) translate(-7.500000, -87.000000) " font-family="Helvetica" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="-15" y="91">Too Low</tspan>
+            </text>
+            <path d="M7.40183328,119.491011 L0,113.966071 L1.77635684e-15,112 L16,112 L16,113.966071 L8.59816672,119.491011 C8.24336016,119.755849 7.75663984,119.755849 7.40183328,119.491011 Z" id="Triangle-2" fill="#434348"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="140px" viewBox="0 0 16 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>overperformance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overperformance">
+            <path d="M0,6 L16,6 L16,138 L16,138 C16,139.104569 15.1045695,140 14,140 L2,140 L2,140 C0.8954305,140 1.3527075e-16,139.104569 0,138 L0,6 Z" id="Rectangle-2" fill="#434348"></path>
+            <text id="Over-Performance" transform="translate(7.500000, 59.500000) rotate(-90.000000) translate(-7.500000, -59.500000) " font-family="Helvetica" font-size="12" font-weight="normal" fill="#FFFFFF">
+                <tspan x="-42" y="63.5">Over Performance</tspan>
+            </text>
+            <path d="M8.59816672,0.446488731 L16,5.97142857 L16,7.9375 L0,7.9375 L0,5.97142857 L7.40183328,0.446488731 L7.40183328,0.446488731 C7.75663984,0.181650975 8.24336016,0.181650975 8.59816672,0.446488731 Z" id="Triangle-2" fill="#434348"></path>
+        </g>
+    </g>
+</svg>
